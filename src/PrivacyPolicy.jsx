@@ -13,13 +13,10 @@ export default function PrivacyPolicy() {
 
       <h4 id="personal-information">Personal Information</h4>
       <ul>
-        <li>Full name</li>
-        <li>Email address</li>
-        <li>Phone number (if provided)</li>
-        <li>Date of birth (if required for profile creation)</li>
-        <li>Gender (optional)</li>
-        <li>Profile photo and other profile information</li>
-        <li>Address (if provided)</li>
+        <li><strong>Email Address:</strong> For communication purposes, including account management and notifications.</li>
+        <li><strong>Name:</strong> To personalize your experience and communication.</li>
+        <li><strong>Address:</strong> For registration purposes and to process any purchases or subscriptions.</li>
+        <li><strong>Location:</strong> We use your location for product recommendations tailored to your area. However, <strong>we do not store your location</strong>.</li>
       </ul>
 
       <h4 id="location-information">Location Information</h4>
